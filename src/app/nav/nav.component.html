@@ -1,0 +1,32 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" fixedInViewport
+      [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+      [mode]="(isHandset$ | async) ? 'over' : 'side'"
+      [opened]="(isHandset$ | async) === false">
+    <mat-toolbar>Menu</mat-toolbar>
+    <hr>
+    <mat-nav-list>
+      <a mat-list-item routerLink="/home" routerLinkActive="active"><mat-icon>home</mat-icon> Accueil</a>
+      <a mat-list-item routerLink="/uniteUn" routerLinkActive="active"><img src="assets/factory.png">Unite 1</a>
+      <a mat-list-item routerLink="/uniteDeux" routerLinkActive="active"><img src="assets/factory.png">Unite 2</a>
+      <a mat-list-item routerLink="/uniteTrois" routerLinkActive="active"><img src="assets/factory.png">Unite 3</a>
+      <a mat-list-item routerLink="/uniteQuatre" routerLinkActive="active"><img src="assets/factory.png">Unite 4</a>
+      <a mat-list-item routerLink="/uniteCinq" routerLinkActive="active"><img src="assets/factory.png">Unite 5</a>
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <!-- <mat-toolbar>
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+        *ngIf="isHandset$ | async">
+        <mat-icon>home</mat-icon>
+      </button>
+    </mat-toolbar> -->
+    <div class="container fullpage">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
