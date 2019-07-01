@@ -19,7 +19,7 @@ export class UniteDeuxComponent implements OnInit {
 
         this.dataSource = {
           "chart": {
-            "caption": "Test d'un graph",
+            "caption": "Relevé Cuve du: 01/07/2019",
             "subCaption": "",
             "xAxisName": "Poid du lait présent dans la cuve",
             "yAxisName": "Capacité de la cuve (en L)",

@@ -1,0 +1,37 @@
+version: '3'
+services:
+  unite1:
+    image: ?????
+    container_name: unite1
+    restart: always
+    hostname: "1"
+    networks_on:
+      -unite_network
+  unite2:
+    image: ?????
+    container_name: unite2
+    restart: always
+    hostname: "2"
+    networks_on:
+      -unite_network
+  unite3:
+    image: ?????
+    container_name: unite3
+    restart: always
+    hostname: "3"
+    networks_on:
+      -unite_network
+  unite4:
+    image: ?????
+    container_name: unite4
+    restart: always
+    hostname: "4"
+    networks_on:
+      -unite_network
+  unite5:
+    image: ?????
+    container_name: unite5
+    restart: always
+    hostname: "5"
+    networks_on:
+      -unite_network
