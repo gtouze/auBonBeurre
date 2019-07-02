@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="437b4b21-889c-4612-b29c-d9a73c10d6a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteDeux/uniteDeux.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteDeux/uniteDeux.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteDeux/uniteDeux.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteDeux/uniteDeux.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteQuatre/uniteQuatre.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteQuatre/uniteQuatre.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteQuatre/uniteQuatre.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteQuatre/uniteQuatre.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteTrois/uniteTrois.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteTrois/uniteTrois.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteTrois/uniteTrois.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteTrois/uniteTrois.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteUn/uniteUn.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteUn/uniteUn.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/uniteUn/uniteUn.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/uniteUn/uniteUn.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,12 +21,12 @@
     <favorites_list name="AuBonBeurreV0.2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/uniteDeux/uniteDeux.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="44" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            <state relative-caret-position="748">
+              <caret line="44" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -54,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/app/uniteUn/uniteUn.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -81,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -89,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/uniteTrois/uniteTrois.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="748">
               <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
             </state>
           </provider>
@@ -118,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="476">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -179,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,7 +232,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,24 +317,24 @@
       <workItem from="1561901724388" duration="8073000" />
       <workItem from="1561960927550" duration="3399000" />
       <workItem from="1561979384004" duration="1832000" />
-      <workItem from="1562008305676" duration="4743000" />
+      <workItem from="1562008305676" duration="4744000" />
+      <workItem from="1562047694485" duration="283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20173000" />
+    <option name="totallyTimeSpent" value="20457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="847" y="0" width="1080" height="1047" extended-state="1" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.69822484" visible="true" weight="0.2637255" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6967456" visible="true" weight="0.2637255" />
       <window_info id="Structure" order="1" sideWeight="0.29104477" side_tool="true" weight="0.19189766" />
-      <window_info id="npm" order="2" sideWeight="0.30177516" side_tool="true" visible="true" weight="0.2637255" />
+      <window_info id="npm" order="2" sideWeight="0.30325443" side_tool="true" visible="true" weight="0.2637255" />
       <window_info id="Favorites" order="3" sideWeight="0.29104477" side_tool="true" weight="0.19189766" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2603939" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2603939" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,40 +486,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/uniteTrois/uniteTrois.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/uniteDeux/uniteDeux.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="44" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        <state relative-caret-position="748">
+          <caret line="44" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/uniteQuatre/uniteQuatre.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/app/uniteUn/uniteUn.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -550,21 +517,44 @@
     <entry file="file://$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/uniteUn/uniteUn.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/app/uniteTrois/uniteTrois.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="748">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/uniteQuatre/uniteQuatre.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/uniteCinq/uniteCinq.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/uniteUn/uniteUn.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
